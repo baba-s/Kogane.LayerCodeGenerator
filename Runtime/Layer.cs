@@ -25,5 +25,10 @@ namespace Kogane
         {
             return JsonUtility.ToJson( this, true );
         }
+
+        public static implicit operator int( Layer layer )
+        {
+            return layer.Index;
+        }
     }
 }
