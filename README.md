@@ -68,3 +68,11 @@ public class Example : MonoBehaviour
 ![2022-09-01_212220](https://user-images.githubusercontent.com/6134875/187912837-f7f4b60c-d446-4c5a-a033-e1a749f52f18.png)
 
 Project Settings で設定を変更できます
+
+|項目|内容|
+|:--|:--|
+|Generate|手動でコードを生成します|
+|Reset to Default|設定をデフォルトに戻します|
+|Is Auto Generate|自動生成を有効化するかどうか|
+|Output Path|コードの出力先|
+|XXXX Template|コードのテンプレート|
