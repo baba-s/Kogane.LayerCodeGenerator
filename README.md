@@ -4,6 +4,8 @@
 
 ## 使用例
 
+![2022-09-01_211605](https://user-images.githubusercontent.com/6134875/187912814-8945e86f-732a-475e-8f0d-2e119c215c06.png)
+
 Tags & Layers で「Layers」を変更して保存すると
 
 ```csharp
@@ -62,5 +64,7 @@ public class Example : MonoBehaviour
 ```
 
 生成されたクラスは上記のように使用できます
+
+![2022-09-01_212220](https://user-images.githubusercontent.com/6134875/187912837-f7f4b60c-d446-4c5a-a033-e1a749f52f18.png)
 
 Project Settings で設定を変更できます
