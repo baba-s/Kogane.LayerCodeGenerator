@@ -1,10 +1,11 @@
-using System;
+﻿using System;
 using UnityEngine;
 
 namespace Kogane
 {
     [Serializable]
-    public struct Layer
+    // ReSharper disable once PartialTypeWithSinglePart
+    public partial struct Layer
     {
         [SerializeField] private string m_name;
         [SerializeField] private int    m_index;
